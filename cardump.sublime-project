@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"name": "Cardump",
+			"path": ".",
+			"folder_exclude_patterns": [ "edump" ]
+		}
+	],
+		"settings":
+		{
+		"tab_size": 2,
+		"translate_tabs_to_spaces": true
+		}
+}
